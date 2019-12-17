@@ -2474,7 +2474,7 @@ input, select, textarea {
 
 		table td {
 			padding: 0.75em 0.75em;
-			width: 1px;
+			width: 50%;
 		}
 
 		table th {
