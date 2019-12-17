@@ -1791,9 +1791,9 @@ input, select, textarea {
 
 		header.major h2 + p {
 			color: #777;
-			font-size: 1.0em;
+			font-size: 1.1em;
 			font-weight: 700;
-			margin-top: -0.75em;
+			margin-top: -0.7em;
 		}
 
 /* Form */
@@ -2461,8 +2461,8 @@ input, select, textarea {
 		margin: 0 0 2.25em 0;
 		width: 100%;
 	}
-
-		table tbody tr {
+			
+			table tbody tr {
 			border: solid 2px #f4f4f4;
 			border-left: 0;
 			border-right: 0;
@@ -2474,6 +2474,7 @@ input, select, textarea {
 
 		table td {
 			padding: 0.75em 0.75em;
+			width: 1px;
 		}
 
 		table th {
